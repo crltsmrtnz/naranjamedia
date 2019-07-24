@@ -1,1 +1,2 @@
-http://naranjamedia.netlify.com/* http://naranjamedia.info/:splat 301!
+http://naranjamedia.netlify.com/  http://naranjamedia.info/
+
