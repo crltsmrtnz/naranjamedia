@@ -1,0 +1,7 @@
+# netlify.toml
+
+[[redirects]]
+  from = "https://naranjamedia.netlify.com/*"
+  to = "https://www.naranjamedia.info/:splat"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
