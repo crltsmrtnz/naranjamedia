@@ -1,2 +1,4 @@
-/  https://www.naranjamedia.info/
-
+[[redirects]]
+from = "https://naranjamedia.netlify.com/"
+to = "https://www.naranjamedia.info/"
+status = 200
