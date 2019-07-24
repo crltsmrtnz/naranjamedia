@@ -1,5 +1,0 @@
-[[redirects]]
-from = "https://naranjamedia.netlify.com/"
-to = "https://www.naranjamedia.info/"
-status = 301
-force = true #COMMENT: ensure that we always redirect
